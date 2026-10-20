@@ -1,0 +1,43 @@
+tile.ts.inventory_connector.name=Inventory Connector
+tile.ts.storage_terminal.name=Storage Terminal
+tile.ts.crafting_terminal.name=Crafting Terminal
+
+itemGroup.toms_storage=Tom's Simple Storage
+
+ts.storage_terminal=S. Terminal
+ts.crafting_terminal=C. Terminal
+
+tooltip.toms_storage.hold_shift_for_info=Hold SHIFT for more info.
+tooltip.toms_storage.inventory_connector=Connects all of the touching inventories into one.|Use the Storage Terminal to access|all of your items.
+tooltip.toms_storage.storage_terminal=Gives access to your items.|Place it on an inventory.
+tooltip.toms_storage.crafting_terminal=Gives access to your items.|Place it on an inventory.|Has a builtin crafting table.
+tooltip.toms_storage.amount=Item Amount: %d
+tooltip.toms_storage.slots_used=Used Slots: %d
+tooltip.toms_storage.sorting_amount=Sort by Item Amount
+tooltip.toms_storage.sorting_name=Sort by Item Name
+tooltip.toms_storage.sorting_mod=Sort by Mod
+tooltip.toms_storage.sorting_space_efficiency=Sort by Space Efficiency|Items taking the most slots first
+tooltip.toms_storage.sorting_id=Sort by Item ID
+tooltip.toms_storage.sorting_type=Sort by Item Type|Like the creative inventory
+tooltip.toms_storage.sort_dir_0=Sorting: Descending|Hold SHIFT on the option buttons to cycle backwards
+tooltip.toms_storage.sort_dir_1=Sorting: Ascending|Hold SHIFT on the option buttons to cycle backwards
+tooltip.toms_storage.ghostMode_on=Keep Item Order While Holding SHIFT|Items that run out stay as a 0|Click to disable
+tooltip.toms_storage.ghostMode_off=Sort Items While Holding SHIFT|Click to keep the order instead
+tooltip.toms_storage.tallMode_on=Tall Terminal: On|Uses the screen height
+tooltip.toms_storage.tallMode_off=Tall Terminal: Off
+tooltip.toms_storage.terminal_stat.slots=All slots: %s
+tooltip.toms_storage.terminal_stat.free=Free slots: %s (%s%%)
+tooltip.toms_storage.terminal_stat.unique=Unique items: %s
+tooltip.toms_storage.terminal_stat.alot=A lot
+tooltip.toms_storage.search_0=Standard Search|@mod  #oredict  $nbt  a b  a | b
+tooltip.toms_storage.search_1=Auto Search
+tooltip.toms_storage.search_2=Standard Search Keep
+tooltip.toms_storage.search_3=Auto Search Keep
+tooltip.toms_storage.ctrlMode_0=AE Like Controls|Pull one item: Shift+Right Click|Transfer one item: Ctrl+Shift+Right Click
+tooltip.toms_storage.ctrlMode_1=Refined Storage Like Controls|Pull one item: Middle Click|Transfer one item: Shift+Middle Click
+tooltip.toms_storage.ctrlMode_2=Vanilla Like Controls|Pull one item: Right Click|Transfer one item: Shift+Right Click
+tooltip.toms_storage.pull_0=Don't pull from players inventory when crafting
+tooltip.toms_storage.pull_1=Pull missing items from players inventory when crafting
+
+chat.toms_storage.inventory_connector.free_slots=Inventory Connector: %d free/%d slots in %d inventories.
+chat.toms_storage.terminal_out_of_range=Terminal out of range
